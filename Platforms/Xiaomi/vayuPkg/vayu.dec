@@ -1,0 +1,9 @@
+[Defines]
+  DEC_SPECIFICATION            = 0x00010005
+  PACKAGE_NAME                 = vayu
+  PACKAGE_GUID                 = 3F9D5C75-EE51-4E90-A2A0-3654F5D880FB
+  PACKAGE_VERSION              = 0.1
+
+[Guids.common]
+  gvayuTokenSpaceGuid          = { 0x3F9D5C75, 0xEE51, 0x4E90, { 0xA2, 0xA0, 0x36, 0x54, 0xF5, 0xD8, 0x80, 0xFB } }
+
