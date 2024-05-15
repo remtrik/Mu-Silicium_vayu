@@ -45,7 +45,7 @@
   INF Binaries/vayu/QcomPkg/Drivers/RpmhDxe/RpmhDxe.inf
 
 !if $(USE_CUSTOM_DISPLAY_DRIVER) == 1
-  INF Binaries/vayu/QcomPkg/Drivers/CPRDxe/CPRDxe.inf
+  #INF Binaries/vayu/QcomPkg/Drivers/CPRDxe/CPRDxe.inf
 !endif
   INF Binaries/vayu/QcomPkg/Drivers/PdcDxe/PdcDxe.inf
 
